@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Kumar Virigineni</h1>
-<h3 align="center">Fullstack developer with expertise</h3>
+<h3 align="center">Fullstack developer with expertise in React, Node.js, JavaScript, Express.js and MongoDB</h3>
 
 - 🔭 I’m currently working on [Swift-Spot-Pay](https://github.com/VIJAY-KUMAR-VIRIGINENI/swift-spot-pay)
 
